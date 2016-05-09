@@ -1,0 +1,7 @@
+name 'winservice'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures winservice'
+long_description 'Installs/Configures winservice'
+version '0.1.0'
